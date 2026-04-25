@@ -1,2 +1,2 @@
-# AFU-ToyboxToolset
+# AFU-Sandbox
 Adds a bunch of fun sandbox tools inspired by Garry's Mod
